@@ -8,7 +8,7 @@ install python-dev
 install python-pyaudio
 
 install vlc 
-install crontab 
+install gnome-schedule 
 
 install weaved 
 install vnc

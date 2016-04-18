@@ -1,0 +1,14 @@
+Sudo apt-get update 
+sudo apt-get upgrade 
+
+Install sqlite3
+install sqlitebrowser 
+
+install python-dev
+install python-pyaudio
+
+install vlc 
+install crontab 
+
+install weaved 
+install vnc

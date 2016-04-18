@@ -1,14 +1,21 @@
 Sudo apt-get update 
 sudo apt-get upgrade 
+sudo apt-get dist-upgrade
 
-Install sqlite3
-install sqlitebrowser 
+sudo apt-get install sqlite3
+sudo apt-get install sqlitebrowser 
 
-install python-dev
-install python-pyaudio
+sudo apt-get install python-dev
+sudo apt-get install python-pyaudio
 
-install vlc 
-install crontab 
+sudo apt-get install vlc 
+sudo apt-get install gnome-scheudule
 
-install weaved 
+sudo apt-get install weavedconnected
+sudo weavedinstaller
+
 install vnc
+
+
+sudo apt-get install php5-mysql openssl ssl-cert php5-cli php5-common php5-cgi php-pear php-apc curl libapr1 libtool php5-curl libcurl4-openssl-dev php-xml-parser php5-dev php5-gd libmemcached* memcached php5-memcached -y
+

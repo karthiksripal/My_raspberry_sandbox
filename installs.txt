@@ -8,11 +8,16 @@ sudo apt-get install sqlitebrowser
 sudo apt-get install python-dev
 sudo apt-get install python-pyaudio
 
+<<<<<<< HEAD
 sudo apt-get install vlc 
 sudo apt-get install gnome-scheudule
 
 sudo apt-get install weavedconnected
 sudo weavedinstaller
+=======
+install vlc 
+install gnome-schedule 
+>>>>>>> origin/master
 
 install vnc
 
